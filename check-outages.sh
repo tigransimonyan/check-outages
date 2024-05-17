@@ -8,7 +8,7 @@
 # detected, it reports the affected service and address.
 
 # Define your address in different formats
-addresses=("Մ.Սարյան" "Մարտիրոս Սարյան" "Մ. ՍԱՐՅԱՆ" "ՄԱՐՏԻՐՈՍ ՍԱՐՅԱՆ")
+addresses=("Մ.Սարյան" "Մ. Սարյան" "Մարտիրոս Սարյան" "Մ. ՍԱՐՅԱՆ" "ՄԱՐՏԻՐՈՍ ՍԱՐՅԱՆ")
 
 # Define the URLs
 power_url="https://www.ena.am/Info.aspx?id=5&lang=1"
